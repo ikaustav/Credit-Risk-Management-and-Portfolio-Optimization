@@ -53,7 +53,7 @@ The objective of this project is to develop an intelligent and explainable machi
 Dataset: Home Credit Default Risk Dataset
 
 Source:
-https://www.kaggle.com/c/home-credit-default-risk
+(https://www.kaggle.com/datasets/anggundwilestari/home-credit)
 
 Dataset Statistics:
 
