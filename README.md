@@ -1,4 +1,4 @@
-# AI-Driven Credit Risk Management and Portfolio Optimization
+# Credit Risk Management and Portfolio Optimization
 
 An end-to-end machine learning framework for credit risk assessment, explainable lending decisions, customer segmentation, and portfolio optimization using LightGBM and SHAP.
 
@@ -257,12 +257,15 @@ B.Tech, Computer Science and Engineering
 Specialization: Cybersecurity and Blockchain Technology  
 KIIT University, Bhubaneswar
 
-**Anushkan Panda**
+
 
 ---
 
 ## Acknowledgement
 
-This project was developed as part of the IIT Guwahati Project on AI-Driven Credit Risk Management and Portfolio Optimization.
+* **Primary Research & Development :** Independently designed, engineered, and executed by **Kaustav Maji**. This covers the end-to-end implementation including data preprocessing, advanced feature engineering (Financial Stress Score), machine learning modeling (LightGBM), model explainability (SHAP), and portfolio optimization strategies.
+* **Institutional Guidance & Framework :** Developed under the project guidelines, curriculum, and evaluation framework provided by **IIT Guwahati** for the *AI-Driven Credit Risk Management and Portfolio Optimization* initiative.
 
-Certificate of completion: Awaiting issuance.
+---
+* **Project Status:** Completed 
+* **Certification:** Verification and official completion certificate issuance are assigned.
