@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![LightGBM](https://img.shields.io/badge/LightGBM-ML-green)
+![SHAP](https://img.shields.io/badge/Explainable_AI-SHAP-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
 # Credit Risk Management and Portfolio Optimization
 
 An end-to-end machine learning framework for credit risk assessment, explainable lending decisions, customer segmentation, and portfolio optimization using LightGBM and SHAP.
